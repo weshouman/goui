@@ -1,4 +1,4 @@
-# GoTUI Framework
+# GoUI Framework
 
 A reusable Terminal User Interface framework for building command-driven applications in Go.
 

@@ -3,8 +3,8 @@ package service
 import (
 	"strings"
 
-	"github.com/ourorg/goui/pkg/domain"
-	"github.com/ourorg/goui/pkg/spec"
+	"github.com/weshouman/goui/pkg/domain"
+	"github.com/weshouman/goui/pkg/spec"
 )
 
 type SpecService struct{}

@@ -6,7 +6,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/ourorg/goui/pkg/util"
+	"github.com/weshouman/goui/pkg/util"
 )
 
 // State represents an application state with its display configuration

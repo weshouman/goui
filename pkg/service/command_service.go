@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ourorg/goui/pkg/domain"
+	"github.com/weshouman/goui/pkg/domain"
 )
 
 type CmdHistoryEntry struct {

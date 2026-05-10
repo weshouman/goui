@@ -3,7 +3,7 @@ package service
 import (
 	"sync"
 
-	"github.com/ourorg/goui/pkg/domain"
+	"github.com/weshouman/goui/pkg/domain"
 )
 
 // Registry interface for all registries (following TODO19 core requirements)

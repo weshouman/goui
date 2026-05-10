@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/ourorg/goui/pkg/execx"
+	"github.com/weshouman/goui/pkg/execx"
 )
 
 // Command represents a command that can be executed in the application

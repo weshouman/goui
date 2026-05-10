@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/sirupsen/logrus"
 
-	"github.com/ourorg/goui/pkg/domain"
+	"github.com/weshouman/goui/pkg/domain"
 )
 
 // SearchService handles search operations
